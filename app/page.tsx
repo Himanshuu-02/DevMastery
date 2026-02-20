@@ -4,6 +4,8 @@ import Footer from "@/components/sections/Footer";
 import Hero from "@/components/sections/Hero";
 import StatsBar from "@/components/sections/StatsBar";
 import FeaturesSection from "@/components/sections/FeaturesSection";
+import FeaturedCourses from "@/components/sections/FeaturedCourses";
+import FAQSection from "@/components/sections/FAQSection";
 
 export default function Home() {
   return (
@@ -14,7 +16,9 @@ export default function Home() {
        <Hero/>
        <StatsBar/>
        <FeaturesSection/>
+       <FeaturedCourses/>
       </main>
+      <FAQSection/>
         <Footer />
     </>
   );
