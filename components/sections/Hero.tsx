@@ -21,7 +21,7 @@ export default function Hero() {
 
             <div className="flex gap-4 pt-4">
               <Link
-                href="/courses"
+                href="/catalog"
                 className="px-8 py-3 bg-indigo-600 hover:bg-indigo-700 text-white font-semibold rounded-lg shadow-md"
               >
                 Explore Courses

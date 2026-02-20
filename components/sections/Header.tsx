@@ -18,7 +18,7 @@ export default function Header() {
               className="h-8 w-8 text-indigo-600"
               fill="none"
               viewBox="0 0 24 24"
-              stroke="currentColor"
+              stroke="currentColor     "
             >
               <path
                 strokeLinecap="round"
