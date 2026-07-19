@@ -13,7 +13,7 @@ export default function Home() {
       <Header />
       {/* We'll add Hero section here later */}
       <main >
-       <Hero/>
+       {/* <Hero/> */}
        <StatsBar/>
        <FeaturesSection/>
        <FeaturedCourses/>
